@@ -1,0 +1,22 @@
+{
+  "wheel_id": 570,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationnorthbrisbane-152",
+  "project": "kitchen-renovation-services-north-brisbane-71b31262c8e1a0a2f653",
+  "parent_t1_ref": "kitchenrenovationnorthbrisbane-010",
+  "node_role": "buffer",
+  "money_target": "kitchenrenovationnorthbrisbane.com.au",
+  "primary_kw": "kitchen renovation services north brisbane",
+  "intended_url": "http://kitchen-renovation-services-north-brisbane-71b31262c8e1a0a2f653.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8a020089a7f3d3a8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovation-services-north-brisbane-010/",
+      "anchor": "Kitchen Renovation Services North Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
